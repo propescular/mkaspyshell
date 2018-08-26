@@ -11,6 +11,25 @@ Bu shell tamamen alfa shellin 3.0.1 versiyonlu shelli  kırılarak gereksiz fonk
 
 Shellde emeği geçenler ; MuRo, MKA7, MY0FC4, Hayben, skyc0de,Mectruy, Koswog 
 
+Shell özellikleri ;
+
+* C1 SHELL BYPASS  
+* Toplam 6 Adet CGI Shell var 
+* PHTML File manager
+* 8 Adet Passwd çekme methodu mevcut
+* Kullan at email servisi verir.
+* PHP,PERL,PYTHON, BASH EVAL sistemi
+* Logları Takip etme, silme (CPANEL)
+* Veritabanı bağlantısı kurma ve database düzeltme,okuma,silme ve indirme özelliği
+* Wordpress,Joomla, Vbulletin, phpBB, WHMCS , MYBB, PHP Nuke, Drupal, SMF, CMS Scriptlerine Admin ekleme özelliği
+* Backconnect BC
+* SSH2 
+* apache ve litespeed farklı bypass methodları
+* çoğu sunucuda çalışan ZIPPER sistemi, belirlediğiniz klasördeki scriptleri sıkıştırıp zip haline getirir.
+* php,perl,python, FILE  symlink
+* PHTML file manager
+* bypass edilmiş ln -s sistemi (dosya yolunu belirle ve çek)
+* open_basedir, direk dizine girer.
 
 MKASPY V.1.0.1 SHELL YENİLİKLER
 
@@ -35,3 +54,10 @@ MKASPY V.1.0.2 SHELL YENİLİKLER
 
 
 * Çalışmayan fonksiyonlar aktif edildi.
+
+MKASPY V.1.0.4 SHELL YENİLİKLERİ
+
+* +1 CGİ EKLENDİ
+* +2 PASSWD METHODU EKLENDİ
+* PHTML FİLE MANAGER EKLENDİ
+
